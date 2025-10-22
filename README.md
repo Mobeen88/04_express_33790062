@@ -16,7 +16,7 @@ This project demonstrates how to create and serve web pages dynamically using ro
   - `/date` → Shows the current date and time  
   - `/welcome/:name` → Personalized greeting using route parameters  
   - `/chain` → Demonstrates Express route chaining  
-  - `/file` → Serves a static HTML file
+  - `/a.html` → Serves a static HTML file
 
 ---
 
